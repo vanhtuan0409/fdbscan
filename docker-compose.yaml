@@ -1,0 +1,5 @@
+services:
+  fdb-1:
+    image: foundationdb/foundationdb:7.3.27
+    network_mode: host
+
